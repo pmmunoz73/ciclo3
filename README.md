@@ -7,4 +7,4 @@ Integrantes:
 #Paula
 #Estefany
 #Alfonso
-#Giancarlo
+#Giancarlos
